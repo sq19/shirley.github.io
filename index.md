@@ -1,8 +1,9 @@
 ![Shirley Qi](ShirleyQi.jpg)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### LinkedIn
+[Shirley's LinkedIn](https://www.linkedin.com/in/shirley-qi-5699961b6/)
+### Github
+[Shirley's Github](https://github.com/sq19)
 
 ```markdown
 Syntax highlighted code block
