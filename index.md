@@ -38,6 +38,6 @@ In my free time, I enjoy dancing. I am currently on a dance team at UCSD called 
 - [ ] Finish this lab
 - [ ] Call my friends and catch up with them
 
-Find the README for the project here: [README](../README.md)
+Find the README for the project here: [README](README.md)
 
 When creating this project, I used a variety of git commands, like `git clone`, `git add`, `git commit`, and `git push`.
